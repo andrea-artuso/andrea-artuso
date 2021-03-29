@@ -10,6 +10,8 @@ I love working in team and get involved in new projects. I'm a creative thinker 
 
 Aside from IT and professional career, I like aviation, design and space exploration. I love listening to music while I work, especially Italian pop music.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
+
 <!--
 **andrea-artuso/andrea-artuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
