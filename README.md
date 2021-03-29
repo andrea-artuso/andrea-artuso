@@ -1,5 +1,5 @@
 ### Hi everybody 👋
-I am Andrea, I was born in Borgosesia (VC) and I have always lived in Varallo (VC).
+My name is Andrea, I was born in Borgosesia (VC) and I have always lived in Varallo (VC).
 I fell in love with IT when I was eleven years old. I started to learn coding basics and programming fundamentals.
 Now I'm studyng IT in Novara and I'm in the second year.
 After graduate, I want to enroll in the Computer Engineering class at the university.
@@ -10,7 +10,7 @@ I love working in team and get involved in new projects. I'm a creative thinker 
 
 Aside from IT and professional career, I like aviation, design and space exploration. I love listening to music while I work, especially Italian pop music.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
+![Andrea Artuso's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
 
 <!--
 **andrea-artuso/andrea-artuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
