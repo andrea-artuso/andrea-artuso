@@ -1,14 +1,12 @@
 ### Hi everybody 👋
-My name is Andrea, I was born in Borgosesia (VC) and I have always lived in Varallo (VC).
-I fell in love with IT when I was eleven years old. I started to learn coding basics and programming fundamentals.
-Now I'm studyng IT in Novara and I'm in the second year.
-After graduate, I want to enroll in the Computer Engineering class at the university.
 
-Currently, I develop website as a freelancer.
+My name is Andrea and I'm a developer based in Italy 🇮🇹
+I mainly deal with the frontend part of web development. My goal is to create user-friendly interfaces by applying UX principles.
 
-I love working in team and get involved in new projects. I'm a creative thinker and problem solver.
-
-Aside from IT and professional career, I like aviation, design and space exploration. I love listening to music while I work, especially Italian pop music.
+🔭 I’m currently working with [Coding Bunker](https://github.com/Coding-Bunker) to some projects, I'm also creating my newest portfolio website
+🌱 I’m currently learning frontend frameworks, especially ReactJS
+💬 Feel you free to ask me everything about frontend development and UX design
+📫 You can reach me using the email or my website
 
 ![Andrea Artuso's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
 
