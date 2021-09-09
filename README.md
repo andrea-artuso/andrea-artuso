@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-My name is Andrea and I'm a developer based in Italy 🇮🇹
+My name is Andrea and I'm a developer based in Italy 🇮🇹  
 I mainly deal with the frontend part of web development. My goal is to create user-friendly interfaces by applying UX principles.
 
 🔭 I’m currently working with [Coding Bunker](https://github.com/Coding-Bunker) on some projects, I'm also creating my new portfolio website  
