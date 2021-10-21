@@ -3,8 +3,11 @@
 My name is Andrea and I'm a developer based in Italy 🇮🇹  
 I mainly deal with the frontend part of web development. My goal is to create user-friendly interfaces by applying UX principles.
 
-🔭 I’m currently working with [Coding Bunker](https://github.com/Coding-Bunker) on some projects, I'm also creating my new portfolio website  
-🌱 I’m currently learning frontend frameworks, especially ReactJS  
+🔭 I’m currently working with [Coding Bunker](https://github.com/Coding-Bunker) on some projects and as a freelancer dev 
+🌱 I’m currently learning:
+  - frontend frameworks, especially ReactJS
+  - Software Development in Windows environment
+  - Code optimization with C
 💬 Feel free to ask me all about frontend development and UX design  
 📫 You can reach me using the email or my website  
 
