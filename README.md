@@ -7,7 +7,7 @@ I mainly deal with the frontend part of web development. My goal is to create us
 🌱 I’m currently learning:
   - frontend frameworks, especially ReactJS
   - Software Development in Windows environment
-  - Code optimization with C
+  - Code optimization with C 
 💬 Feel free to ask me all about frontend development and UX design  
 📫 You can reach me using the email or my website  
 
