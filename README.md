@@ -10,7 +10,7 @@ I mainly deal with the frontend part of web development. My goal is to create us
   - Code optimization with C 
  
 💬 Feel free to ask me all about frontend development and UX design  
-📫 You can reach me using the email or my website  
+📫 You can contact me with [my personal e-mail](mailto:andrea.artuso.business@gmail.com) or by visiting [my website](andrea-artuso.dev)    
 
 
 ![Andrea Artuso's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
