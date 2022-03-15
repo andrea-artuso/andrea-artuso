@@ -7,7 +7,7 @@ I mainly deal with the frontend part of web development. My goal is to create us
 🌱 I’m currently learning:
   - frontend frameworks, especially ReactJS
   - Software Development in Windows environment
-  - Code optimization with C 
+  - Embedded systems
  
 💬 Feel free to ask me all about frontend development and UX design  
 📫 You can contact me with [my personal e-mail](mailto:andrea.artuso.business@gmail.com) or by visiting [my website](https://andrea-artuso.dev)    
