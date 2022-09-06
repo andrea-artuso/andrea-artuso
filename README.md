@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
-My name is Andrea and I'm a developer based in Italy 🇮🇹  
-I mainly deal with the frontend part of web development. My goal is to create user-friendly interfaces by applying UX principles.
+My name is Andrea and I'm a IT student and junior developer based in Italy 🇮🇹  
+I usually spend time working on the Frontend part of websites.
 
 🔭 I’m currently studying and working on some side projects as a frontend dev  
 🌱 I’m currently learning:
