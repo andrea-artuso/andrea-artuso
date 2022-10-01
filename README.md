@@ -10,6 +10,3 @@ I usually spend time working on the Frontend part of websites.
   - Linux
  
 📫 You can contact me with [my personal e-mail](mailto:andrea.artuso.business@gmail.com) or by visiting [my website](https://andrea-artuso.dev)    
-
-
-![Andrea Artuso's github stats](https://github-readme-stats.vercel.app/api?username=andrea-artuso)
