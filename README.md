@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Frontend Web Developer<br>Currently studying Software Development<br>Aspiring to be Embedded Software Engineer
+💻 I'm a Junior Frontend Web Developer<br>📚 Currently studying Software Development<br>✨ Aspiring to become a Embedded Software Engineer
 
 
 ## 🌐 Socials:
