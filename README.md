@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Junior Software Developer<br>📚 Currently studying Computer Science<br>✨ Aspiring to become a DevOps Engineer.
+📚 Currently studying Computer Engineering<br>✨ Aspiring to become a DevOps Engineer.
 
 
 ## 🌐 Socials:
